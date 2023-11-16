@@ -3,15 +3,15 @@
 The default keymapping in iTerm2 is frustrating for those who use a Macbook with a physical German keyboard layout.
 There, many key bindings produce counterintuitive effects.
 
-The mapping in this repository changes the following key combinations:
+The mappings in this repository adjust iTerms behavior such that:
 
-- **Option + Left/Right Arrow**: Move Cursor one word left/right (same as in the native MacOS terminal)
-- **Option + Backspace**: Delete word left of cursor
-- **Cmd + Backspace**: Delete current line
-- **Cmd + Left/Right Arrow**: Move cursor to beginning/end of line
+- **Option + Left/Right Arrow**: Moves Cursor one word left/right (same as in the native MacOS terminal)
+- **Option + Backspace**: Deletes word left of cursor
+- **Cmd + Backspace**: Deletes current line
+- **Cmd + Left/Right Arrow**: Moves cursor to beginning/end of line
 - **Cmd + Z**: Undo
 
-If you're forgetful like me, there is also a reference for common keyboard shortcuts included.
+If you're forgetful like me, I also included a reference cheat sheet for common terminal keyboard shortcuts.
 
 ## How to use
 
