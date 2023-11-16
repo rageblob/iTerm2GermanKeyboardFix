@@ -12,3 +12,9 @@ The mapping in this repository changes the following key combinations:
 - **Cmd + Z**: Undo
 
 If you're forgetful like me, there is also a reference for common keyboard shortcuts included.
+
+## How to use
+
+In iTerm, press `Cmd + ,` to open settings. Go to the Profiles pane and select `Keys`, then select the `Key Mappings` pane.
+At the bottom of the window go to `Presets...`, click `Import...` and select `GermanKeyboardLayoutFix.itermkeymap`.
+
